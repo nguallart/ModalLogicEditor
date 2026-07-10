@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 ## Ejecución
 
 ```bash
-python app.py
+python programa.py
 ```
 
 ## Controles gráficos
